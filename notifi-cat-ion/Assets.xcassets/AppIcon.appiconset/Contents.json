@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Preview 2024-11-07 19.43.54.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "Preview 2024-11-07 19.43.54 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "Preview 2024-11-07 19.43.54 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
